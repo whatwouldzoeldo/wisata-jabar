@@ -1,0 +1,124 @@
+  @prefix d:     <http://www.wisatajabar.com/data#> .
+  @prefix md:    <http://www.wisatajabar.com/wisatadatad#> .
+
+  d:1     md:titles                     "Curug Sadim" ;
+          md:kota                       "Subang" ;
+          md:types                      "Wisata Alam" ;
+          md:alamat               "Jalan Raya Ciater Subang" ;
+          md:telpon             "-".
+
+  d:2     md:titles     "Tangkuban Parahu" ;
+          md:kota   "Bandung" ;
+          md:types     "Wisata Alam" ;
+          md:alamat             "Jl Raya Tangkuban Perahu, Cikahuripan, Lembang, Bandung, Jawa Barat" ;
+          md:telpon             "0821 2005 20011".
+
+  d:3     md:titles    "Pemandian Air Panas Ciater" ;
+          md:kota   "Subang" ;
+          md:types     "Wisata Rekreasi" ;
+          md:alamat            "Jl Raya Tangkuban Perahu, Cikahuripan, Lembang, Bandung, Jawa Barat" ;
+          md:telpon             "0821 2005 20011".
+
+  d:4     md:titles    "Green Canyon" ;
+          md:kota   "Pangandaran" ;
+          md:types     "Wisata Alam" ;
+          md:alamat  "Jl. Raya Cijulang - Green Canyon, RT.02/RW.10, Cijulang, Pangandaran" ;
+          md:telpon     "0815-4666-558" .
+
+  d:5     md:titles    "Farmhouse" ;
+          md:kota   "Lembang, Bandung" ;
+          md:types     "Wisata Rekreasi" ;
+          md:alamat  "Jl. Raya Lembang No.108, Gudangkahuripan, Lembang, Kabupaten Bandung Barat, Jawa Barat 40391" ;
+          md:telpon     "-" .
+
+  d:6     md:titles    "Kawah Putih Ciwidey" ;
+          md:kota   "Ciwidey, Bandung" ;
+          md:types     "Wisata Alam" ;
+          md:alamat  "Jalan Raya Ciwidey Patenggang Km 11 Lebakmuncang Ciwidey, Sugihmukti, Pasirjambu, Bandung, Jawa Barat , Indonesia, 40972. Kawah Putih merupakan kawah hasil dari letusan Gunung Patuha, Ciwidey, Bandung" ;
+          md:telpon     "-" .
+
+  d:7     md:titles    "Saung Angklung Udjo" ;
+          md:kota   "Bandung" ;
+          md:types     "Wisata Pendidikan dan Budaya" ;
+          md:alamat  "Jl. Padasuka No.118, Pasirlayung, Kec. Cibeunying Kidul, Kota Bandung, Jawa Barat 40192" ;
+          md:telpon     "0818-0222-1522" .
+
+  d:8     md:titles    "Pantai Ujung Genteng" ;
+          md:kota   "Sukabumi" ;
+          md:types     "Wisata Alam" ;
+          md:alamat  "Ujung Genteng, Ciracap, Sukabumi, Jawa Barat, Indonesia, 43176." ;
+          md:telpon     "-" .
+
+  d:9    md:titles     "Taman Air Mancur Sri Baduga" ;
+          md:kota   "Purwakarta" ;
+          md:types     "Wisata Rekreasi" ;
+          md:prices  "Jl. K.K Singawinata No.73, Nagri Kidul, Kec. Purwakarta, Kabupaten Purwakarta, Jawa Barat" ;
+          md:telpon     "-" .
+
+  d:10     md:titles    "Kampung Naga Tasikmalaya" ;
+          md:kota   "Tasikmalaya" ;
+          md:types     "Wisata Budaya" ;
+          md:alamat  "Neglasari, Salawu, Tasikmalaya, Jawa Barat, Indonesia, 46471." ;
+          md:telpon     "-" .
+
+d:11     md:titles    "Taman Bunga Nusantara" ;
+          md:kota   "Cianjur" ;
+          md:types     "Wisata Rekreasi" ;
+          md:alamat  "Jalan Mariwati KM 7, desa Kawungluwuk, kecamatan Sukaresmi, Cianjur." ;
+          md:telpon     "-" .
+
+          
+d:12     md:titles    "Kebun Raya Bogor" ;
+          md:kota   "Bogor" ;
+          md:types     "Wisata Rekreasi" ;
+          md:alamat  "Jl. Ir. H. Juanda No.13, Paledang, Kecamatan Bogor Tengah, Kota Bogor, Jawa Barat 16122" ;
+          md:telpon     "(0251) 8311362" .
+
+ d:13     md:titles    "Taman Bunga Nusantara" ;
+          md:kota   "Cianjur" ;
+          md:types     "Wisata Rekreasi" ;
+          md:alamat  "Jalan Mariwati KM 7, desa Kawungluwuk, kecamatan Sukaresmi, Cianjur." ;
+          md:telpon     "-" .         
+
+d:14     md:titles    "Curug Cibareubeuy" ;
+          md:kota   "Subang" ;
+          md:types     "Wisata Alam" ;
+          md:alamat  "Nagrak, Kec. Ciater, Kabupaten Subang, Jawa Barat 41281" ;
+          md:telpon     "-" .
+
+
+d:15     md:titles    "Pantai Kalapa Patimban" ;
+          md:kota   "Subang" ;
+          md:types     "Wisata Alam" ;
+          md:alamat  "Dusun Patimban, Patimban, Pusakanagara, Patimban, Kec. Pusakanagara, Kabupaten Subang, Jawa Barat 41255" ;
+          md:telpon     "-" .
+
+ d:16     md:titles    "Geopark Ciletuh" ;
+          md:kota   "Sukabumi" ;
+          md:types     "Wisata Alam" ;
+          md:alamat  "Jl Cimarinjung, Ds Ciwaru, Kec Ciemas, Kab Sukabumi, Jawa Barat 43177, Ciwaru, Ciemas, Sukabumi" ;
+          md:telpon     "-" .
+
+d:17     md:titles    "Pantai Pangandaran" ;
+          md:kota   "Pangandaran" ;
+          md:types     "Wisata Alam" ;
+          md:alamat  "Kabupaten Pangandaran, Jawa Barat" ;
+          md:telpon     "-" . 
+
+d:18     md:titles    "Ranca Upas" ;
+          md:kota   "Ciwidey, Bandung" ;
+          md:types     "Wisata Alam" ;
+          md:alamat  "Patengan, Kec. Rancabali, Bandung" ;
+          md:telpon     "-" .
+
+d:19     md:titles    "Pinisi Resto Dan Glamping Lakeside Ciwidey" ;
+          md:kota   "Bandung" ;
+          md:types     "Wisata Rekreasi" ;
+          md:alamat  "Patengan, Kec. Rancabali, Bandung, Jawa Barat 40973" ;
+          md:telpon     "-" .
+
+d:20     md:titles    "Curug Cinulang Cicalengka" ;
+          md:kota   "Sumedang" ;
+          md:types     "Wisata Alam" ;
+          md:alamat  "Cicalengka Sindangwangi, Sindulang, Cimanggung, Sumedang, Jawa Barat, Indonesia, 45364." ;
+          md:telpon     "-" .        
